@@ -1,1 +1,0 @@
-Machine learning is a field of study that gives computers the ability to learn from data without being explicitly programmed, allowing them to improve their performance on a task over time.
